@@ -5,7 +5,7 @@
 - 📫 How to reach me here is my linked in
 - https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love Stargazing
+- ⚡ Fun fact: I Love Stargazing 
 
 <!---
 StellarDevTalha/StellarDevTalha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
